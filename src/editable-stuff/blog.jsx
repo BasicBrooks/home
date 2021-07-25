@@ -2,7 +2,7 @@ import { BlogBuilder } from "../components/blog/BlogBuilder";
 const bloglist = [];
 
 const blog = new BlogBuilder({
-  title: "My First Blog",
+  title: "BasicBrooks",
   image: "img",
   description:
     "Description Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem, dolores? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quia provident similique corporis rem ullam odio excepturi voluptas harum, architecto sit!",
